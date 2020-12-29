@@ -12,6 +12,6 @@ A kinda elaborate **P**ostgres-**F**irebase-**E**xpress-**R**eact-**N**ode-**G**
 
 ## Backend
 
-- MikroORM
+- MikroORM w/Postgres DB Driver
 - Apollo Server Express
 - Type-GraphQL
